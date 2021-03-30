@@ -31,7 +31,7 @@ for sim in sims:<br>
 <div style="text-align:left"><b><u>Treal profiles for galaxy g1.08e11 (all snapshots):</u></b><br>
 </div>
 <br>
-<div style="display:block;text-align:left"><a href="https://sites.google.com/site/hujicosmo/cusp-core-transition/2-kinetic-energy/Treal.png?attredirects=0" imageanchor="1"><img border="0" src="https://sites.google.com/site/hujicosmo/cusp-core-transition/2-kinetic-energy/Treal.png" style="width:100%"></a></div>
+<div style="display:block;text-align:left"><a href="https://sites.google.com/site/hujicosmo/cusp-core-transition/2-kinetic-energy/Treal.png?attredirects=0" imageanchor="1"><img border="0" src="Treal.png" style="width:50%"></a></div>
 <br>
 </div>
 </div>
