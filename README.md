@@ -5,7 +5,6 @@ These python programs test the CuspCore model against the NIHAO cosmological zoo
 </p>
 
 <p align="center">
-<img src="NIHAOtest.png"  width=50%>
+<img src="NIHAOtest.png"  width=60%>
 </p>
-
 
