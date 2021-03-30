@@ -153,9 +153,7 @@ flowdata = {&nbsp; 'r':r,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
 <u><b>Usage:</b></u><br>
 <span><br>
 import sys<br>
-sys.path.insert(0, '/cs/sci/freundlich/CUSPCORE/Analysis/Formatting')<br>
 import format_functions<br>
-reload(format_functions)<br>
 <br>
 sims=['g1.37e11','g1.52e11','g1.57e11','g1.59e11','g2.19e11','g2.63e10','g8.06e11']<br>
 <br>
