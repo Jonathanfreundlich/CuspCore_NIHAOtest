@@ -163,6 +163,4 @@ for sim in sims:<br>
 &nbsp;&nbsp;&nbsp; format_functions.load_or_create_gl(sim,directory='/cs/sci/freundlich/CUSPCORE/Analysis/DATA/',use_fangzhou_Rvir=True)<br>
 <br>
 </span>
-<div><br>
-<br>
-by Jonathan Freundlich (13/03/2018)</div>
+
