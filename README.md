@@ -22,5 +22,5 @@ These python programs test the CuspCore model against the NIHAO cosmological zoo
 <div><u><b><a href="fitting.md">4/ Fitting the density profiles.</a> </b></u>We fit the density profiles using the <a href="https://ui.adsabs.harvard.edu/abs/2020arXiv200408395F"  style="text-decoration:none" class="type1">Dekel-Zhao profile</a>. Note that the programs use a 1/b=2 convention.<br>
 <br>
 </div>
-<div><b><a href="evolving.md"><u>5/ Testing the model.</u></a> </b>We obtain the model prediction for the next timestep from the mass variations at each radius and compare it with the actual DM density profile. We also plot the mass variation profiles, the logarithmic slopes and the kinetic energy for a better understanding of the model. The function cuspcore_go.go() carries the different steps automatically for a given set of input parameters. <br>
+<div><b><a href="Section42_Fig9_single.ipynb"><u>5/ Testing the model.</u></a> </b>We obtain the model prediction for the next timestep from the mass variations at each radius and compare it with the actual DM density profile. We also plot the mass variation profiles, the logarithmic slopes and the kinetic energy for a better understanding of the model. The function cuspcore_go.go() carries the different steps automatically for a given set of input parameters. <br>
 </div>
